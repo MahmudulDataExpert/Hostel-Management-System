@@ -1,0 +1,2 @@
+# Hostel-Management-System
+The project is aims to build a database management system to manage the Hostel easily. The aim of the  project is to provide effective tools to maintain the Hostel. It will help to manage a hostel of school,  college or university. This project is to get rid from manual entry and record system and try to give easy  and simple database management system for hostels. The project is included ER Diagram, Conceptual  Schema, and other supporting requirement information.
